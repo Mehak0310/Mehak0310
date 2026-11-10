@@ -65,12 +65,6 @@ An ongoing Python-based application designed to simplify job discovery, evaluati
 
 *Note: The public repository may not yet reflect all locally developed functionality.*
 
-### 🅰️ [Angular To-Do Application](https://github.com/Mehak0310/Angular-ToDo-app)
-
-An Angular application demonstrating component-based frontend development and application architecture.
-
-**Tech:** Angular, TypeScript
-
 ---
 
 ## 💼 Professional Experience & Impact
